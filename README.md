@@ -15,6 +15,8 @@ The primary goal of this analysis is to explore the evolving agriculture busines
 * Augmented the dataset by introducing additional columns like "Productivity," "Category," and "Region" for a more comprehensive analysis.
 ### 3. Dashboarding:
 * Developed interactive dashboards to visualize production trends, regional contributions, and seasonal variations.
+* ![image](https://github.com/user-attachments/assets/c6d3622b-7a66-4ef3-bb8c-87ec8d09de06)
+* ![image](https://github.com/user-attachments/assets/cd506aa6-f98b-4779-98b6-2c46fdf1c7d2)
 ### 4. Profitable Insights:
 * Top Contributing States: Identified Uttar Pradesh, West Bengal, and other key contributors.
 * Regional Production: Analyzed the dominance of Northern and Eastern India in crop production.
