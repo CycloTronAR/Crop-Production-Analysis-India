@@ -1,18 +1,17 @@
-🌾 Crop Production Analysis - India 📊
-Overview
+# 🌾 Crop Production Analysis - India 📊
+## Overview
 This project dives deep into analyzing crop production trends across India, aiming to provide actionable insights for stakeholders in the agriculture sector. Leveraging data validation, transformation, and dashboarding techniques, this analysis highlights key patterns and trends in crop production, focusing on productivity, regional contributions, and seasonal variations.
 
-Objective
+## Objective
 The primary goal of this analysis is to explore the evolving agriculture business domain and its role in the overall supply chain. By utilizing advanced data analytics, this project aims to create a robust platform that facilitates collaboration among stakeholders in the agri-food sector.
 
-Project Workflow
-Data Validation & Transformation:
-
-Correction of Discrepancies: Removed inaccurate data points, such as incorrect coconut production figures.
-Null Value Handling: Cleaned the dataset by removing rows with null values.
-Standardization of Units: Unified the measurement units (Hectares for Area, Tonnes for Production).
-Data Enhancement: Added new columns for Productivity, Crop Category, and Region to enrich the analysis.
-Data Insertion:
+## Project Workflow
+ ### 1. Data Validation & Transformation:
+* Correction of Discrepancies: Removed inaccurate data points, such as incorrect coconut production figures.
+* Null Value Handling: Cleaned the dataset by removing rows with null values.
+* Standardization of Units: Unified the measurement units (Hectares for Area, Tonnes for Production).
+* Data Enhancement: Added new columns for Productivity, Crop Category, and Region to enrich the analysis.
+ ### 2. Data Insertion:
 
 Augmented the dataset by introducing additional columns like "Productivity," "Category," and "Region" for a more comprehensive analysis.
 Dashboarding:
